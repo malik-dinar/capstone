@@ -4,7 +4,7 @@ capstone is a command line interface (CLI) game where you take control of a monk
 
 ## Gameplay
 
-- Use the arrow keys or specific commands to move the monkey through the game grid.
+- specific commands to move the monkey through the game grid.
 - The objective is to navigate the monkey to the star symbol to win the game.
 - Beware of hidden spiders along the way! If the monkey encounters a spider, it's game over.
 - However, there is hope! If the monkey finds a hidden sword, it gains power and can overcome spiders.
