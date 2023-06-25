@@ -23,10 +23,7 @@ Before you run, make sure you have [node.js (includes NPM)](https://nodejs.org/e
 2. `npm install`
 3. `npm run Grid.js` 
 
-
-<video src="assets/capstone.mp4" controls>
-  Your browser does not support the video tag.
-</video>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/zpxz0xdK2c4/0.jpg)](https://www.youtube.com/watch?v=zpxz0xdK2c4)
 
 ## Technologies Used
 
