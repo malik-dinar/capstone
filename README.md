@@ -1,6 +1,6 @@
-# Monkey's Star Adventure
+# capstone
 
-Monkey's Star Adventure is a command line interface (CLI) game where you take control of a monkey on a quest to reach the star. Can you guide the monkey to victory?
+capstone is a command line interface (CLI) game where you take control of a monkey on a quest to reach the star. Can you guide the monkey to victory?
 
 ## Gameplay
 
